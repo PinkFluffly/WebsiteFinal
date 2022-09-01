@@ -25,4 +25,4 @@ navigation:
       - name: Image
         link: ./index.html#small-image
   - name: Country List
-    link: ./another-page.html
+    link: ./Birds-in-Europe.md

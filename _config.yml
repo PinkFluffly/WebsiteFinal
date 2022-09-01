@@ -1,9 +1,9 @@
-title: Minimalistic
+title: Birds Of Europe
 logo: /assets/img/logo.jpg
-email: person@address.com
+email: vytautas.kersulis1@gmail.com
 description: Minimalistic is a theme powered by Jekyll.
 favicon: true
-color-scheme: auto
+color-scheme: dark
 
 plugins:
   - jekyll-sitemap
@@ -19,10 +19,10 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
 
 navigation:
-  - name: Readme
+  - name: Title
     link: ./index.html
     sublist:
       - name: Image
         link: ./index.html#small-image
-  - name: Another Page
+  - name: European Birds
     link: ./another-page.html

@@ -3,6 +3,7 @@ layout: default
 ---
 
 **Bird Species of Europe**
+
 This website will showcase all the species of birds that reside in Europe with pictures and the sounds they make for easy identification
 
 
